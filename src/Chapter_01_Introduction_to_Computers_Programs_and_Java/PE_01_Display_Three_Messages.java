@@ -1,4 +1,0 @@
-package Chapter_01_Introduction_to_Computers_Programs_and_Java;
-
-public class PE_01_Display_Three_Messages {
-}
