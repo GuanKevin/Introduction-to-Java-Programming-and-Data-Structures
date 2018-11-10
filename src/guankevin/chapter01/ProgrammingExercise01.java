@@ -4,7 +4,7 @@ import java.lang.System;
 /**
  * Introduction to Java Programming and Data Structures 11th Edition by Daniel Liang.
  * Chapter 01 Introduction to Computers, Programs and Java
- * Programming Exercise 1
+ * Programming Exercise 01 - Display Three Messages
  *
  * @author guankevin
  * @version 1.0
