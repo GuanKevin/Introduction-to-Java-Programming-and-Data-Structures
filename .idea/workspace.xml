@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626c3e6f-a3a6-44d8-8e2c-55100ecff246" name="Default Changelist" comment="Added comments">
-      <change afterPath="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,25 +23,25 @@
     <session id="180412755">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3036" />
+          <entry key="java" value="3309" />
           <entry key="txt" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3036" />
+          <entry key="JAVA" value="3309" />
           <entry key="PLAIN_TEXT" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="21" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="21" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
@@ -58,10 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise11.java">
+        <entry file="file://$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="544">
+              <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -110,10 +110,11 @@
         <option value="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise09.java" />
         <option value="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise10.java" />
         <option value="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise11.java" />
+        <option value="$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise12.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="width" value="1943" />
     <option name="height" value="1087" />
@@ -154,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541899577777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541900218613" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -172,20 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgrammingExercise11">
-    <configuration name="ProgrammingExercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guankevin.chapter01.ProgrammingExercise07" />
-      <module name="Introduction-to-Java-Programming-and-Data-Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guankevin.chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProgrammingExercise12">
     <configuration name="ProgrammingExercise08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guankevin.chapter01.ProgrammingExercise08" />
       <module name="Introduction-to-Java-Programming-and-Data-Structures" />
@@ -238,20 +226,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgrammingExercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guankevin.chapter01.ProgrammingExercise12" />
+      <module name="Introduction-to-Java-Programming-and-Data-Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guankevin.chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ProgrammingExercise07" />
       <item itemvalue="Application.ProgrammingExercise08" />
       <item itemvalue="Application.ProgrammingExercise09" />
       <item itemvalue="Application.ProgrammingExercise10" />
       <item itemvalue="Application.ProgrammingExercise11" />
+      <item itemvalue="Application.ProgrammingExercise12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgrammingExercise12" />
         <item itemvalue="Application.ProgrammingExercise11" />
         <item itemvalue="Application.ProgrammingExercise10" />
         <item itemvalue="Application.ProgrammingExercise09" />
         <item itemvalue="Application.ProgrammingExercise08" />
-        <item itemvalue="Application.ProgrammingExercise07" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +314,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32948583" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.56453305" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.30220357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -416,8 +417,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="713">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guankevin/chapter01/ProgrammingExercise12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
         </state>
       </provider>
     </entry>
