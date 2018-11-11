@@ -17,6 +17,18 @@ public class ProgrammingExercise08 {
 
             Perimeter = 2 x radius x pi
             Area = radius x radius x pi
+
+            radius = 5.5
+            pi = 3.14159
          */
+
+        System.out.println("Perimeter = 2 x radius x pi" +
+                "\nPerimeter = 2 x 5.5 x 3.14159" +
+                "\nPerimeter = " + (2 * 5.5 * 3.14159));
+
+        System.out.println("Area = radius x radius x pi" +
+                "\nArea = 5.5 x 5.5 x 3.14159" +
+                "\nArea = " + (5.5 * 5.5 * 3.14159));
+
     }
 }
